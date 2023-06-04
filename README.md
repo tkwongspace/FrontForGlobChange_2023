@@ -13,10 +13,6 @@ Kindly remind that 烦请留意:
 
 ## Data Availability 关于数据
 
-Data sample to run through these scripts may be created in the future upon demands.
-
-我们会基于需求考虑在以后推出一个用来运行所有脚本代码的示例数据。
-
 Environmental data used in our analysis can be downloaded from the [climatological database](https://www.hko.gov.hk/en/cis/climat.htm) of Hong Kong Observatory (HKO)
 and the [Marine Water Quality Database](https://cd.epic.epd.gov.hk/EPICRIVER/marine/?lang=en) of Hong Kong Environmental Protection Department (HKEPD).
 
