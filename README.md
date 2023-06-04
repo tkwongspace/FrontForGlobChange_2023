@@ -1,7 +1,7 @@
 # FrontForGlobChange_2023
 
 ## Brief Introduction
-R scripts for the paper published on *Frontiers in Forests and Global Change* in year 2023. 
+R scripts for the paper to be published on *Frontiers in Forests and Global Change* in year 2023. 
 - Scripts are under construction.
 - Citation and DOI of the corresponding paper will be uploaded here once it is online published.
 
