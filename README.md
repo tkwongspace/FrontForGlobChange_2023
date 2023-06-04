@@ -24,9 +24,4 @@ and the [Marine Water Quality Database](https://cd.epic.epd.gov.hk/EPICRIVER/mar
 以及香港环境保护署的[海水水质数据库](https://cd.epic.epd.gov.hk/EPICRIVER/marine/?lang=zh_cn)中免费下载获得。
 
 To enquire about litterfall time series in Futian mangroves, please send your questions or request to the authors. 
-- Zijian Huang (huangzj7@mail2.sysu.edu.cn) 
-- Prof. Shixiao Yu (lssysx@mail.sysu.edu.cn)
-
-如果对文章及代码所使用到的红树林凋落物时间序列数据有任何疑问，或者希望使用凋落物时间序列的原始数据，欢迎随时与文章作者团队联系：
-- 黄子健 (huangzj7@mail2.sysu.edu.cn) 
-- 余世孝教授 (lssysx@mail.sysu.edu.cn)
+如果对文章及代码所使用到的红树林凋落物时间序列数据有任何疑问，或者希望使用凋落物时间序列的原始数据，欢迎随时与文章作者团队联系。
