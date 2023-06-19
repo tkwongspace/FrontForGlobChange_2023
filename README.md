@@ -8,8 +8,9 @@ An archive of R scripts for the article published on *Frontiers in Forests and G
 Citation of the article:
 
 Huang Z, Z Li, M Wang, D Zhu, Q Yang, S Yu.
-Coastal nutrient enrichments facilitated reproductive output in exotic mangrove species over two decades.
-2023, 6, 1183432.
+Coastal nutrient enrichments facilitated reproductive output in exotic mangrove species over two decades. 
+*Frontiers in Forests and Global Change*.
+2023, 6: 1183432.
 
 DOI: 10.3389/ffgc.2023.1183432
 
