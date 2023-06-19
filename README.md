@@ -1,15 +1,17 @@
 # FrontForGlobChange_2023
 
 ## Brief Introduction 简介
-R scripts for the paper to be published on *Frontiers in Forests and Global Change* in year 2023. 
+An archive of R scripts for the article published on *Frontiers in Forests and Global Change*. 
 
-此代码库中保存的是计划发表在《Frontiers in Forests and Global Change》期刊（2023）文章的数据分析过程脚本。
+此代码库中保存的是发表在《Frontiers in Forests and Global Change》期刊文章的数据分析过程脚本。
 
-Kindly remind that 烦请留意:
-- Scripts are under construction.
-- 所有代码脚本还在开发完善的过程中。
-- Citation and DOI of the corresponding paper will be uploaded here once it is online published.
-- 文章正式在线上发表后，我们会立即在此处添加文章的引用及DOI链接。
+Citation of the article:
+
+Huang Z, Z Li, M Wang, D Zhu, Q Yang, S Yu.
+Coastal nutrient enrichments facilitated reproductive output in exotic mangrove species over two decades.
+2023, 6, 1183432.
+
+DOI: 10.3389/ffgc.2023.1183432
 
 ## Data Availability 关于数据
 
